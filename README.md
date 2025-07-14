@@ -1,5 +1,9 @@
 # ch03
-hello git
+
+Hello git
+
+
 git add
-git commit -m"message"
+git commit -m"first commit"
 git push
+111
